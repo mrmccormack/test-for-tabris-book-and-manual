@@ -1,14 +1,8 @@
-# My Awesome Book test \#2 and \#3 \#4 \#5 and \#6 \#7 \# 8
+# My Awesome Book \#1 only
 
-# Number \#9, \#10 and \# 11 adn \# 12
+# Did this update.
 
-**hello**
-
-
-
-Did this update
-
-Should be here...
+# Should be here...
 
 > Hello from GitHub.com
 >
